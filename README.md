@@ -31,6 +31,6 @@ This project focuses on analyzing India's Consumer Price Index (CPI) Inflation o
                             <li> Rural Sector: After Covid, inflation rose in Food (+3%) and Essentials (+5%), while Health declined slightly (–1%).
                             <li> Urban Sector: Post-Covid, inflation increased in Health (+4.2%) and Essentials (+4.5%), with no rise in Food.
                             <li> Overall: Inflation increased by 7.5%, driven by Food (+1.8%), Health (+0.9%), and Essentials (+4.8%).</ul>
-                    <li><strong>Oil Price Impacts (2021–2023) :</strong></ol><ul>
+                    <li><strong>Oil Price Impacts (2021–2023) :</strong><ul>
                             <li> Maximum impact: 82–84% in Meat & Fish category across Rural, Urban, and Rural-Urban.
-                            <li> Least impact: –21 to –22% in Eggs across all sectors.</ul>
+                            <li> Least impact: –21 to –22% in Eggs across all sectors.</ul></ol>
